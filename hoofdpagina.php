@@ -1,4 +1,4 @@
-<!DOCTYPE html>a
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,7 +20,7 @@
         <img src="img/arrow_left.jpg">
         </a>
     </nav>
-    <article>
+    <article>dcdsac
         <div id="container">
             <div class="child">Profiel gegevens</div>
             <div class="child">Naam applicatie</div>
