@@ -20,12 +20,12 @@
         <img src="img/arrow_left.jpg">
         </a>
     </nav>
-    <article>
+    <article>dddddde
         <div id="container">
             <div class="child">Profiel gegevens</div>
             <div class="child">Naam applicatie</div>
         </div>
-        <div id="blok">
+        <div id="blok">dddddddd
             <div class="kind">App icoon</div>
             <div class="kind">Menu afbeeldingen</div>
         </div>
