@@ -20,7 +20,7 @@
         <img src="img/arrow_left.jpg">
         </a>
     </nav>
-    <article>dcdsac
+    <article>
         <div id="container">
             <div class="child">Profiel gegevens</div>
             <div class="child">Naam applicatie</div>
